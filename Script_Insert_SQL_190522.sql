@@ -79,56 +79,6 @@ INSERT INTO singer_list(singer_name)
 INSERT INTO singer_list(singer_name) 
 	VALUES('Trololo');
 
-INSERT INTO style_singer(singer_id, style_id) 
-	VALUES('Vladimir Petrov', 'rock');
-
-INSERT INTO style_singer(singer_id, style_id) 
-	VALUES('Oleg Ivanov', 'pop');
-
-INSERT INTO style_singer(singer_id, style_id)
-	VALUES('Ivan Bobrov', 'jazz');
-
-INSERT INTO style_singer(singer_id, style_id)
-	VALUES('Sergey Dmitriev', 'hip-hop');
-
-INSERT INTO style_singer(singer_id, style_id) 
-	VALUES('Nicolay Zlobin', 'classic');
-
-INSERT INTO style_singer(singer_id, style_id)
-	VALUES('Vlad Trofimov', 'techno');
-
-INSERT INTO style_singer(singer_id, style_id) 
-	VALUES('Marat Ibragimov', 'alternative');
-
-INSERT INTO style_singer(singer_id, style_id)
-	VALUES('Andrey Sysoev', 'electronic');
-
-INSERT INTO style_singer(singer_id, style_id) 
-	VALUES('Timur Rebrov', 'soul');
-
-INSERT INTO style_singer(singer_id, style_id) 
-	VALUES('Eduard Blohin', 'country');
-
-INSERT INTO style_singer(singer_id, style_id)
-	VALUES('Boris Voronov', 'pop');
-
-INSERT INTO style_singer(singer_id, style_id) 
-	VALUES('Anton Kozlov', 'rock');
-
-INSERT INTO style_singer(singer_id, style_id)
-	VALUES('Foma Nikandrov', 'jazz');
-
-INSERT INTO style_singer(singer_id, style_id) 
-	VALUES('Vasilisa Premudraya', 'pop');
-
-INSERT INTO style_singer(singer_id, style_id)
-	VALUES('Elena Prekrasnaya', 'classic');
-
-INSERT INTO style_singer(singer_id, style_id) 
-	VALUES('Primadonna', 'rock');
-
-INSERT INTO style_singer(singer_id, style_id)
-	VALUES('Trololo', 'hip-hop');
 
 INSERT INTO album_list(album_name, release_year)
 	VALUES('Album number 1', 2018);
@@ -175,5 +125,58 @@ INSERT INTO album_list(album_name, release_year)
 INSERT INTO album_list(album_name, release_year)
 	VALUES('Album number 15', 2022);
 
+INSERT INTO track_list(track_name, track_time, album_id)
+	VALUES('My love', 250, 2);
 
-	
+INSERT INTO track_list(track_name, track_time, album_id)
+	VALUES('My life', 320, 4);
+
+INSERT INTO track_list(track_name, track_time, album_id)
+	VALUES('The sun', 200, 3);
+
+INSERT INTO track_list(track_name, track_time, album_id)
+	VALUES('My choice', 350, 5);
+
+INSERT INTO track_list(track_name, track_time, album_id)
+	VALUES('30 seconds', 120, 7);
+
+INSERT INTO track_list(track_name, track_time, album_id)
+	VALUES('Bravo maestro', 180, 6);
+
+INSERT INTO track_list(track_name, track_time, album_id)
+	VALUES('Hello', 300, 9);
+
+INSERT INTO track_list(track_name, track_time, album_id)
+	VALUES('One trouble', 240, 8);
+
+INSERT INTO track_list(track_name, track_time, album_id)
+	VALUES('Best of songs', 210, 11);
+
+INSERT INTO track_list(track_name, track_time, album_id)
+	VALUES('For you', 260, 10);
+
+INSERT INTO track_list(track_name, track_time, album_id)
+	VALUES('That is all', 290, 13);
+
+INSERT INTO track_list(track_name, track_time, album_id)
+	VALUES('One of us', 200, 12);
+
+INSERT INTO track_list(track_name, track_time, album_id)
+	VALUES('Bad boy', 280, 15);
+
+INSERT INTO track_list(track_name, track_time, album_id)
+	VALUES('Good girl', 350, 14);
+
+INSERT INTO track_list(track_name, track_time, album_id)
+	VALUES('My story', 270, 4);
+
+INSERT INTO track_list(track_name, track_time, album_id)
+	VALUES('Crash boom bang', 290, 8);
+
+INSERT INTO track_list(track_name, track_time, album_id)
+	VALUES('Whats up', 230, 7);
+
+INSERT INTO track_list(track_name, track_time, album_id)
+	VALUES('This morning', 250, 11);
+
+
