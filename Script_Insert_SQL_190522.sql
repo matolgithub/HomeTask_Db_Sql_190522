@@ -79,7 +79,6 @@ INSERT INTO singer_list(singer_name)
 INSERT INTO singer_list(singer_name) 
 	VALUES('Trololo');
 
-
 INSERT INTO album_list(album_name, release_year)
 	VALUES('Album number 1', 2018);
 
@@ -180,49 +179,49 @@ INSERT INTO track_list(track_name, track_time, album_id)
 	VALUES('This morning', 250, 11);
 
 INSERT INTO collection(collection_name, collection_year)
-	VALUES('Best collection number 1', 2018)
+	VALUES('Best collection number 1', 2018);
 
 INSERT INTO collection(collection_name, collection_year)
-	VALUES('Best collection number 2', 2020)
+	VALUES('Best collection number 2', 2020);
 	
 INSERT INTO collection(collection_name, collection_year)
-	VALUES('Best collection number 3', 2019)
+	VALUES('Best collection number 3', 2019);
 	
 INSERT INTO collection(collection_name, collection_year)
-	VALUES('Best collection number 4', 2017)
+	VALUES('Best collection number 4', 2017);
 	
 INSERT INTO collection(collection_name, collection_year)
-	VALUES('Best collection number 5', 2022)
+	VALUES('Best collection number 5', 2022);
 	
 INSERT INTO collection(collection_name, collection_year)
-	VALUES('Best collection number 6', 2021)
+	VALUES('Best collection number 6', 2021);
 	
 INSERT INTO collection(collection_name, collection_year)
-	VALUES('Best collection number 7', 2020)
+	VALUES('Best collection number 7', 2020);
 	
 INSERT INTO collection(collection_name, collection_year)
-	VALUES('Best collection number 8', 2022)
+	VALUES('Best collection number 8', 2022);
 	
 INSERT INTO collection(collection_name, collection_year)
-	VALUES('Best collection number 9', 2019)
+	VALUES('Best collection number 9', 2019);
 	
 INSERT INTO collection(collection_name, collection_year)
-	VALUES('Best collection number 10', 2018)
+	VALUES('Best collection number 10', 2018);
 	
 INSERT INTO collection(collection_name, collection_year)
-	VALUES('Best collection number 11', 2010)
+	VALUES('Best collection number 11', 2010);
 	
 INSERT INTO collection(collection_name, collection_year)
-	VALUES('Best collection number 12', 2020)
+	VALUES('Best collection number 12', 2020);
 	
 INSERT INTO collection(collection_name, collection_year)
-	VALUES('Best collection number 13', 2019)
+	VALUES('Best collection number 13', 2019);
 	
 INSERT INTO collection(collection_name, collection_year)
-	VALUES('Best collection number 14', 2020)
+	VALUES('Best collection number 14', 2020);
 	
 INSERT INTO collection(collection_name, collection_year)
-	VALUES('Best collection number 15', 2022)
+	VALUES('Best collection number 15', 2022);
 
 
 
