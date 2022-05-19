@@ -130,7 +130,50 @@ INSERT INTO style_singer(singer_id, style_id)
 INSERT INTO style_singer(singer_id, style_id)
 	VALUES('Trololo', 'hip-hop');
 
+INSERT INTO album_list(album_name, release_year)
+	VALUES('Album number 1', 2018);
 
+INSERT INTO album_list(album_name, release_year)
+	VALUES('Album number 2', 2002);
+
+INSERT INTO album_list(album_name, release_year)
+	VALUES('Album number 3', 2018);
+
+INSERT INTO album_list(album_name, release_year)
+	VALUES('Album number 4', 1999);
+
+INSERT INTO album_list(album_name, release_year)
+	VALUES('Album number 5', 2003);
+
+INSERT INTO album_list(album_name, release_year)
+	VALUES('Album number 6', 2005);
+
+INSERT INTO album_list(album_name, release_year)
+	VALUES('Album number 7', 2004);
+
+INSERT INTO album_list(album_name, release_year)
+	VALUES('Album number 8', 2007);
+
+INSERT INTO album_list(album_name, release_year)
+	VALUES('Album number 9', 2018);
+
+INSERT INTO album_list(album_name, release_year)
+	VALUES('Album number 10', 2008);
+
+INSERT INTO album_list(album_name, release_year)
+	VALUES('Album number 11', 2019);
+
+INSERT INTO album_list(album_name, release_year)
+	VALUES('Album number 12', 2020);
+
+INSERT INTO album_list(album_name, release_year)
+	VALUES('Album number 13', 2021);
+
+INSERT INTO album_list(album_name, release_year)
+	VALUES('Album number 14', 2000);
+
+INSERT INTO album_list(album_name, release_year)
+	VALUES('Album number 15', 2022);
 
 
 	
