@@ -324,3 +324,138 @@ INSERT INTO singer_album(album_id, singer_id)
 
 INSERT INTO singer_album(album_id, singer_id)
 	VALUES(2, 49);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(1, 1);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(1, 2);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(1, 3);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(2, 4);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(2, 5);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(2, 6);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(3, 7);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(3, 8);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(3, 9);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(4, 14);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(4, 10);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(4, 8);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(5, 3);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(5, 7);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(5, 12);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(6, 8);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(6, 1);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(6, 5);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(7, 4);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(7, 14);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(7, 6);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(8, 13);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(8, 14);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(8, 15);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(9, 6);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(9, 17);
+
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(9, 14);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(10, 5);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(10, 8);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(10, 10);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(11, 15);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(11, 1);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(11, 5);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(12, 14);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(12, 8);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(12, 6);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(13, 8);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(13, 1);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(13, 4);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(14, 7);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(14, 3);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(14, 5);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(15, 6);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(15, 17);
+	
+INSERT INTO collection_track(collection_id, track_id)
+	VALUES(15, 18);
