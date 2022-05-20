@@ -223,6 +223,61 @@ INSERT INTO collection(collection_name, collection_year)
 INSERT INTO collection(collection_name, collection_year)
 	VALUES('Best collection number 15', 2022);
 
+INSERT INTO style_singer(style_id, singer_id)
+	VALUES(33, 33);
+
+INSERT INTO style_singer(style_id, singer_id)
+	VALUES(34, 34);
+
+INSERT INTO style_singer(style_id, singer_id)
+	VALUES(35, 35);
+
+INSERT INTO style_singer(style_id, singer_id)
+	VALUES(36, 36);
+
+INSERT INTO style_singer(style_id, singer_id)
+	VALUES(37, 37);
+
+INSERT INTO style_singer(style_id, singer_id)
+	VALUES(38, 38);
+
+INSERT INTO style_singer(style_id, singer_id)
+	VALUES(39, 39);
+
+INSERT INTO style_singer(style_id, singer_id)
+	VALUES(40, 40);
+
+INSERT INTO style_singer(style_id, singer_id)
+	VALUES(41, 41);
+
+INSERT INTO style_singer(style_id, singer_id)
+	VALUES(42, 42);
+
+INSERT INTO style_singer(style_id, singer_id)
+	VALUES(33, 43);
+
+INSERT INTO style_singer(style_id, singer_id)
+	VALUES(34, 44);
+
+INSERT INTO style_singer(style_id, singer_id)
+	VALUES(35, 45);
+
+INSERT INTO style_singer(style_id, singer_id)
+	VALUES(36, 46);
+
+INSERT INTO style_singer(style_id, singer_id)
+	VALUES(37, 47);
+
+INSERT INTO style_singer(style_id, singer_id)
+	VALUES(38, 48);
+
+INSERT INTO style_singer(style_id, singer_id)
+	VALUES(39, 49);
+
+
+
+
+
 
 
 
