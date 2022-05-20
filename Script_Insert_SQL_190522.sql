@@ -274,10 +274,53 @@ INSERT INTO style_singer(style_id, singer_id)
 INSERT INTO style_singer(style_id, singer_id)
 	VALUES(39, 49);
 
+INSERT INTO singer_album(album_id, singer_id)
+	VALUES(1, 33);
 
+INSERT INTO singer_album(album_id, singer_id)
+	VALUES(2, 34);
 
+INSERT INTO singer_album(album_id, singer_id)
+	VALUES(3, 35);
 
+INSERT INTO singer_album(album_id, singer_id)
+	VALUES(4, 36);
 
+INSERT INTO singer_album(album_id, singer_id)
+	VALUES(5, 37);
 
+INSERT INTO singer_album(album_id, singer_id)
+	VALUES(6, 38);
 
+INSERT INTO singer_album(album_id, singer_id)
+	VALUES(7, 39);
 
+INSERT INTO singer_album(album_id, singer_id)
+	VALUES(8, 40);
+
+INSERT INTO singer_album(album_id, singer_id)
+	VALUES(9, 41);
+
+INSERT INTO singer_album(album_id, singer_id)
+	VALUES(10, 42);
+
+INSERT INTO singer_album(album_id, singer_id)
+	VALUES(11, 43);
+
+INSERT INTO singer_album(album_id, singer_id)
+	VALUES(12, 44);
+
+INSERT INTO singer_album(album_id, singer_id)
+	VALUES(13, 45);
+
+INSERT INTO singer_album(album_id, singer_id)
+	VALUES(14, 46);
+
+INSERT INTO singer_album(album_id, singer_id)
+	VALUES(15, 47);
+
+INSERT INTO singer_album(album_id, singer_id)
+	VALUES(1, 48);
+
+INSERT INTO singer_album(album_id, singer_id)
+	VALUES(2, 49);
